@@ -2,6 +2,7 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 # https://github.com/pages-themes/leap-day
 # https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136
 # https://harrywang.medium.com/introducing-tailpages-tailwind-github-pages-89903c52d3ec
